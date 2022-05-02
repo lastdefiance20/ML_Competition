@@ -8,7 +8,7 @@
 |[사물 이미지 분류 경진대회 / CIFAR-10 classification](./CIFAR-10%20classification)|22/03/04|7 / 235|Dacon Basic|
 |[손동작 분류 경진대회 / Hand gesture classification](./Hand%20gesture%20classification)|22/03/18|13 / 365|Dacon Basic|
 |[전복 나이 예측 경진대회 / Abalone Age Prediction](./Abalone%20Age%20Prediction)|22/04/01|12 / 411|Dacon Basic|
-|[뉴스 그룹 분류 경진대회 / News Group Classification](./News%20Group%20Classification)|22/04/15|???|Dacon Basic|
+|[뉴스 그룹 분류 경진대회 / News Group Classification](./News%20Group%20Classification)|22/04/15|54 / 233|Dacon Basic|
 |[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|???|Monthly Dacon 20|
 
 
