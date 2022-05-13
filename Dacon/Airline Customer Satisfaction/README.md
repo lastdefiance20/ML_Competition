@@ -6,14 +6,16 @@
 
 결측치를 다루는 방법에 대해서 더욱 배울 수 있는 대회였습니다.
 
-Dacon에 공유한 작성글 링크는 아래에서 볼 수 있습니다.\
-https://dacon.io/competitions/official/235871/codeshare/4494
-
-데이터는 이곳에서 다운받을 수 있습니다\
-https://dacon.io/competitions/official/235871/data
-
 ## 파일 구성
 
 [데이터 분석 코드](./Data%20Analysis.ipynb) - Data Analysis.ipynb
 
 [최종 제출 모델 코드](./Final%20Submission.ipynb) - Final Submission.ipynb
+
+## Dacon에 작성한 글
+
+마의 벽 9.4를 넘은 데이터 접근법 / XGB, LGBM, CAT, ET\
+https://dacon.io/competitions/official/235871/codeshare/4494
+
+## 데이터 출처
+https://dacon.io/competitions/official/235871/data
