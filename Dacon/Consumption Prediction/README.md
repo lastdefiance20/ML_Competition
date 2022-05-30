@@ -10,7 +10,7 @@ Tree 모델로 진행하다가 성능이 더이상 오르지 않아, DNN 모델�
 
 ## 파일 구성
 
-- Eda_with_Sub [dacon에 작성한 글에서 사용한 코드](./Eda_with_Sub.ipynb)
+- Eda_with_Sub [dacon에 작성한 글에서 사용한 Tree 모델 코드](./Eda_with_Sub.ipynb)
 - Final Submission.ipynb [NN을 사용한 최종 제출 모델 코드](./Final%20Submission.ipynb)
 
 ## Dacon에 작성한 글
