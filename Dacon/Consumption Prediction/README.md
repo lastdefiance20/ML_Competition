@@ -1,4 +1,4 @@
-# 손동작 분류 경진대회
+# 소비자 데이터 기반 소비 예측 경진대회
 
 2022년 5월 2일 ~ 2022년 5월 13일동안 진행한 대회입니다. 
 
@@ -15,8 +15,11 @@ Tree 모델로 진행하다가 성능이 더이상 오르지 않아, DNN 모델�
 
 ## Dacon에 작성한 글
 
-rectangular CNN, Swap Noise, Normalize\
+CAT + LGBM + XGB\
 https://dacon.io/competitions/official/235893/codeshare/4880
+
+DNN\
+https://dacon.io/competitions/official/235893/codeshare/4962
 
 ## 데이터 출처
 https://dacon.io/competitions/official/235893/data
