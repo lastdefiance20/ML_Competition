@@ -11,11 +11,12 @@
 |[뉴스 그룹 분류 경진대회 / News Group Classification](./News%20Group%20Classification)|22/04/15|54 / 233|Dacon Basic|
 |[소비자 데이터 기반 소비 예측 경진대회 / Consumption Prediction](./Consumption%20Prediction)|22/05/13|4 / 299|Dacon Basic|
 |[수화 이미지 분류 경진대회/Sign Language Classification](./Sign%20Language%20Classification)|22/05/27|34 / 150|Dacoon Basic|
+|[음성 분류 경진대회/Voice Classification](./Voice%20Classification)|22/06/24|20 / 124|Dacoon Basic|
 
 ### Dacon 정식 대회입니다
 
-|대회명|대회 종료 날짜|최종 순위|대회종류|한줄평|
+|대회명|대회 종료 날짜|최종 순위|대회종류|결과|
 |-|-|-|-|-|
-|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|-|
+|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등상|
 
 
