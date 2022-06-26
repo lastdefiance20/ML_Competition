@@ -10,8 +10,8 @@
 |[전복 나이 예측 경진대회 / Abalone Age Prediction](./Abalone%20Age%20Prediction)|22/04/01|12 / 411|Dacon Basic|
 |[뉴스 그룹 분류 경진대회 / News Group Classification](./News%20Group%20Classification)|22/04/15|54 / 233|Dacon Basic|
 |[소비자 데이터 기반 소비 예측 경진대회 / Consumption Prediction](./Consumption%20Prediction)|22/05/13|4 / 299|Dacon Basic|
-|[수화 이미지 분류 경진대회/Sign Language Classification](./Sign%20Language%20Classification)|22/05/27|34 / 150|Dacoon Basic|
-|[음성 분류 경진대회/Voice Classification](./Voice%20Classification)|22/06/24|20 / 124|Dacoon Basic|
+|[수화 이미지 분류 경진대회 / Sign Language Classification](./Sign%20Language%20Classification)|22/05/27|34 / 150|Dacon Basic|
+|[음성 분류 경진대회 / Voice Classification](./Voice%20Classification)|22/06/24|20 / 124|Dacon Basic|
 
 ### Dacon 정식 대회입니다
 
