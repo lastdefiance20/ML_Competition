@@ -16,8 +16,8 @@
 ### Dacon 정식 대회입니다
 
 |대회명|대회 종료 날짜|최종 순위|대회종류|결과|상금|
-|-|-|-|-|-|
-|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등상|10만원 기부|
+|-|-|-|-|-|-|
+|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등상|10만원(기부)|
 |[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|Monthly Dacon 20|7등상|50만원|
 
 
