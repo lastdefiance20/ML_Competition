@@ -12,7 +12,8 @@ public 11등, private 20등으로 순위를 마무리했습니다.
 
 ## Dacon에 작성한 글
 
-X
+CNN with pytorch\
+https://dacon.io/competitions/official/235905/codeshare/5214
 
 ## 데이터 출처
 https://dacon.io/competitions/official/235905/data
