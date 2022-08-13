@@ -6,9 +6,11 @@
 
 1-4 랜드마크 분류 과제를 수행했으며, pytorch를 사용했습니다.
 
-아쉽게도 내부 보안 때문에 코드 공유는 못했습니다.
+모델 사이즈에 FLOPS 제한이 있었기 때문에, 최대한 많은 모델들을 테스트 해본 이후, 데이터를 albumentations 라이브러리를 사용해 증강하고, 모델 앙상블로 점수를 향상시켰습니다.
 
-![leaderboard](./airush-1round-leaderboard.PNG)
+아쉽게도 네이버 내부 보안때문에 코드 업로드는 못했습니다.
+
+![leaderboard](./airush-1round-leaderboard.jpg)
 
 # 네이버 Airush 2022 2라운드
 
