@@ -21,6 +21,6 @@
 |-|-|-|-|-|-|
 |[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등상|10만원(기부)|
 |[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|단국대|7등상|50만원|
-|[안테나 성능 예측 AI 경진대회 / Radar Performance Prediction](./Radar%20Performance%20Prediction)|22/08/26|현 2위|LG|현재 진행중|-|
+|[안테나 성능 예측 AI 경진대회 / Radar Performance Prediction](./Radar%20Performance%20Prediction)|22/08/26|7 / 980|LG|현재 진행중|-|
 |[SW중심대학 공동 AI 경진대회 예선 / ?](./?)|22/08/26|?|과학기술정보통신부|현재 진행중|-|
 |[숫자 3D 이미지 분류 AI 경진대회 / 3D Image Classification](./3D%20Image%20Classification)|22/09/19|?|Monthly Dacon 24|현재 진행중|-|
