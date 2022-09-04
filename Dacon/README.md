@@ -13,14 +13,14 @@
 |[수화 이미지 분류 경진대회 / Sign Language Classification](./Sign%20Language%20Classification)|22/05/27|34 / 150|Dacon Basic|
 |[음성 분류 경진대회 / Voice Classification](./Voice%20Classification)|22/06/24|20 / 124|Dacon Basic|
 |[쇼핑몰 리뷰 평점 분류 경진대회 / Shop Review Classification](./Shop%20Review%20Classification)|22/08/05|14 / 252|Dacon Basic|
-|[서울 랜드마크 분류 경진대회 / Seoul Landmark Classification](./Seoul%20Landmark%20Classification)|22/09/02|현재 진행중|Dacon Basic|
 
 ### Dacon 정식 대회입니다
 
 |대회명|대회 종료 날짜|최종 순위|대회종류|결과|상금|
 |-|-|-|-|-|-|
-|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등상|10만원(기부)|
-|[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|단국대|7등상|50만원|
+|[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등|10만원(기부)|
+|[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|단국대|7등|50만원|
 |[안테나 성능 예측 AI 경진대회 / Radar Performance Prediction](./Radar%20Performance%20Prediction)|22/08/26|7 / 980|LG|현재 진행중|-|
 |[SW중심대학 공동 AI 경진대회 예선 / ?](./?)|22/08/26|?|과학기술정보통신부|현재 진행중|-|
-|[숫자 3D 이미지 분류 AI 경진대회 / 3D Image Classification](./3D%20Image%20Classification)|22/09/19|?|Monthly Dacon 24|현재 진행중|-|
+|[SW중심대학 공동 AI 경진대회 본선 / ?](./?)|22/08/26|?|과학기술정보통신부|현재 진행중|-|
+|[2022 Samsung AI Challenge (3D Metrology)](./Samsung%20AI%20SEM)|22/09/16|?|삼성전자 종합기술원|현재 진행중|-|
