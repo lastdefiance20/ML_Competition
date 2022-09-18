@@ -23,5 +23,5 @@
 |[안테나 성능 예측 AI 경진대회 / Radar Performance Prediction](./Radar%20Performance%20Prediction)|22/08/26|5 / 980|LG|현재 진행중|-|
 |[2022 Samsung AI Challenge (3D Metrology)](./Samsung%20AI%20SEM)|22/09/16|1 / 558|삼성전자 종합기술원|현재 진행중|-|
 |[3D 이미지 분류 경진대회 / 3D MNIST Classification](./3D%20MNIST%20Classification)|22/09/19|12 / 379|Monthley Dacon 24|현재 진행중|-|
-|[SW중심대학 공동 AI 경진대회 예선](./?)|22/08/26|통과|과학기술정보통신부|현재 진행중|-|
+|[SW중심대학 공동 AI 경진대회 예선](./?)|22/08/26|PASS|과학기술정보통신부|예선 통과|-|
 |[SW중심대학 공동 AI 경진대회 본선 / Sign Character Recognition](./)|22/10/07|?|과학기술정보통신부|현재 진행중|-|
