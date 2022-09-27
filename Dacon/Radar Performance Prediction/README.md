@@ -31,6 +31,8 @@
 ```
 데이터의 경우에는 파일 목록에 맞게 위치시켜주면 됩니다.
 
+https://dacon.io/competitions/official/235927/data
+
 ## 전체 실행 프로세스
 **Final Code 내부 실행 프로세스**
 1. 데이터 불러오기
