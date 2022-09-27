@@ -5,6 +5,8 @@
 - 팀장 정재윤
 - 팀원 Kade Na, 강보근
 
+> Presentation : [LG_radar.pdf](./LG_radar.pdf)
+
 ## 코드 실행 환경
 > ## run at paperspace gradient
 > **Start from paperspace gradient Scratch**
