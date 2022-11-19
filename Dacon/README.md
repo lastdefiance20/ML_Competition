@@ -19,11 +19,11 @@
 |대회명|대회 종료 날짜|최종 순위|대회종류|결과|상금|
 |-|-|-|-|-|-|
 |[비전 이상치 탐지 경진대회 / Computer Vision Anomaly Detection](./Computer%20Vision%20Anomaly%20Detection)|22/05/13|5 / 481|Monthly Dacon 20|4등|10만원(기부)|
-|[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|단국대|7등|50만원|
+|[따릉이 대여량 예측 AI 경진대회 / Bike Sharing Demand Prediction](./Bike%20Sharing%20Demand%20Prediction)|22/07/01|7 / 94|단국대|**7등(장려상**|**50만원**|
 |[안테나 성능 예측 AI 경진대회 / Radar Performance Prediction](./Radar%20Performance%20Prediction)|22/08/26|2 / 980|LG|**2등**|**300만원**|
 |[2022 Samsung AI Challenge (3D Metrology)](https://github.com/lastdefiance20/2022-Samsung-AI-Challenge-3D-Metrology-1st-place-Solution)|22/09/16|1 / 558|삼성전자 종합기술원|**1등**|**1000만원**|
 |[3D 이미지 분류 경진대회 / 3D MNIST Classification](./3D%20MNIST%20Classification)|22/09/19|6 / 165|Monthley Dacon 24|6등|10만원(기부)|
-|[SW중심대학 공동 AI 경진대회 예선](./?)|22/08/26|PASS|과학기술정보통신부|예선 통과|-|
-|[SW중심대학 공동 AI 경진대회 본선 / Sign Character Recognition](./?)|22/10/07|?|과학기술정보통신부|현재 진행중|-|
-|[2022 관광데이터 AI 경진대회 / Tourist Spot Classification](./Tourist%20Spot%20Classification)|22/10/31|?|한국관광공사|현재 진행중|-|
-|[제주도 도로 교통량 예측 AI 경진대회 / Jeju Traffic Prediction](./Jeju%20Traffic%20Prediction)|22/11/14|?|제주 테크노파크|현재 진행중|-|
+|SW중심대학 공동 AI 경진대회 예선|22/08/26|PASS|과학기술정보통신부|예선 통과|-|
+|[SW중심대학 공동 AI 경진대회 본선 / Sign Character Recognition](https://github.com/lastdefiance20/Korean-Sign-OCR)|22/10/07|?|과학기술정보통신부|**7등(장려상)**|**30만원**|
+|[2022 관광데이터 AI 경진대회 / Tourist Spot Classification](./Tourist%20Spot%20Classification)|22/10/31|?|한국관광공사|103 / 290|**타 대회에 집중**|
+|[제주도 도로 교통량 예측 AI 경진대회 / Jeju Traffic Prediction](./Jeju%20Traffic%20Prediction)|22/11/14|?|제주 테크노파크|28 / 712|**타 대회에 집중**|
