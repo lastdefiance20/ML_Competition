@@ -24,6 +24,6 @@
 |[2022 Samsung AI Challenge (3D Metrology)](https://github.com/lastdefiance20/2022-Samsung-AI-Challenge-3D-Metrology-1st-place-Solution)|22/09/16|1 / 558|삼성전자 종합기술원|**1등**|**1000만원**|
 |[3D 이미지 분류 경진대회 / 3D MNIST Classification](./3D%20MNIST%20Classification)|22/09/19|6 / 165|Monthley Dacon 24|6등|10만원(기부)|
 |SW중심대학 공동 AI 경진대회 예선|22/08/26|PASS|과학기술정보통신부|예선 통과|-|
-|[SW중심대학 공동 AI 경진대회 본선 / Sign Character Recognition](https://github.com/lastdefiance20/Korean-Sign-OCR)|22/10/07|?|과학기술정보통신부|**7등(장려상)**|**30만원**|
-|[2022 관광데이터 AI 경진대회 / Tourist Spot Classification](./Tourist%20Spot%20Classification)|22/10/31|?|한국관광공사|103 / 290|**타 대회에 집중**|
-|[제주도 도로 교통량 예측 AI 경진대회 / Jeju Traffic Prediction](./Jeju%20Traffic%20Prediction)|22/11/14|?|제주 테크노파크|28 / 712|**타 대회에 집중**|
+|[SW중심대학 공동 AI 경진대회 본선 / Sign Character Recognition](https://github.com/lastdefiance20/Korean-Sign-OCR)|22/10/07|7 / 77|과학기술정보통신부|**7등(장려상)**|**30만원**|
+|[2022 관광데이터 AI 경진대회 / Tourist Spot Classification](./Tourist%20Spot%20Classification)|22/10/31|103/290|한국관광공사| - |타 대회에 집중|
+|[제주도 도로 교통량 예측 AI 경진대회 / Jeju Traffic Prediction](./Jeju%20Traffic%20Prediction)|22/11/14|28 / 712|제주 테크노파크| - |타 대회에 집중|
