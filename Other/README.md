@@ -9,3 +9,4 @@
 |[2022 국방 AI 경진대회 예선 / Military AI Competition](https://github.com/lastdefiance20/Building_Change_Segmentation)|국방부&과기부|2022/11/16|5 / 110|예선 통과|-|
 |[2022 국방 AI 경진대회 본선 / Military AI Competition](./)|국방부&과기부|2022/12/01|-|수상 실패|-|
 |[2022 유플러스 AI 추천경진대회/ LG Uplus RecSys Competition](./)|LG U+&업스테이지|2021/12/12|?|현재 진행중|-|
+|[암 융합 데이터를 이용한 암 예후 예측 / Predicting Cancer Prognosis](./Predicting%20Cancer%20Prognosis)|아주대학교 산학협력단|2022/12/19|5 / 20|수상 실패-|
